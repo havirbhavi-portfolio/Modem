@@ -1,4 +1,4 @@
-Name: Havirbhavi Pothugunta
+Havirbhavi Pothugunta
 
 Bell 103 Modem Decoder
 
